@@ -40,7 +40,7 @@ Since the theme of my poem is rain, I decorated the cardboard package with a dra
 
 The target audience of this art is students and staff of the college where it was installed. I decided to create a generative visual poem about rain because I wanted to display something about nature, which the target audiences tend to forget about working indoors most of their time.
 
-Issue I encountered during this project was trying to load the text to ESP32. Most of the teammates had similar issue with this. Some of us had to get a new device, and some of us could fix this issue by importing the library again on Arduino. It was also hard to 
+Issue I encountered during this project was trying to load the text to ESP32. Most of the teammates had similar issue with this. Some of us had to get a new device, and some of us could fix this issue by importing the library again on Arduino. It was also hard to figure out how many lines and characters fit on the screen. By trial and error, I found out that 40 characters fit in one line when the font size is 1, and 16 lines of this can fit on ESP32 with screen size 160*128
 
 
 ###Video illustrating how the arts were installed:
