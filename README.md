@@ -13,7 +13,7 @@ Each of the devices that display the art on their screen were packed in a white 
 The paper had a rectangular cut that fits the screen of ESP32. The devices were packed so that only the screen of the machine is visible to the audience. 
 
 The surface of the boxes was decorated using black ink. A black string was connected to the hole on the box. The other end of the string was connected to a popsicle bar. Using the bar, the devices were hung on the ceiling in a straight line, with varying height. The installation site for this project was an academic hub of a college, on a floor where students take classes in. To be specific, the art was installed at the elevator lounge. 
-
+![IMG_9078](https://user-images.githubusercontent.com/25335750/154197451-a867bb7d-4c7a-4556-a629-a395c2852488.jpg)
 ![IMG_9080](https://user-images.githubusercontent.com/25335750/154197512-fba3759b-d2a2-431f-8a97-404df6f7ac2b.jpg)
 
 
