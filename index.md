@@ -44,14 +44,15 @@ The target audience of this art is students and staff of the college where it wa
 Issue I encountered during this project was trying to load the text to ESP32. Most of the teammates had similar issue with this. Some of us had to get a new device, and some of us could fix this issue by importing the library again on Arduino. It was also hard to figure out how many lines and characters fit on the screen. By trial and error, I found out that 40 characters fit in one line when the font size is 1, and 16 lines of this can fit on ESP32 with screen size 160*128
 
 
-###Video illustrating how the arts were installed:
+-Video illustrating how the arts were installed:
+
 https://youtu.be/uh96kdElg3w
 
 https://youtu.be/XKwf8FrTVfo
 
 
 
-Readme of the project: https://github.com/ChangSuNam/-generative-art/blob/main/README.md
+-Readme of the project: https://github.com/ChangSuNam/-generative-art/blob/main/README.md
 
 
 
