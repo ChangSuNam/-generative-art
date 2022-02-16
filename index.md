@@ -47,6 +47,6 @@ Issue I encountered during this project was trying to load the text to ESP32. Mo
 https://user-images.githubusercontent.com/25335750/154197673-c30400e9-0b09-4865-bce9-b690a88f40b4.MOV
 
 Readme of the project: https://github.com/ChangSuNam/-generative-art/blob/main/README.md
-
+Code that creates generative art: https://github.com/ChangSuNam/-generative-art/blob/main/Module1_poem.ino
 
 
