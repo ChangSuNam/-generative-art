@@ -1,5 +1,5 @@
-###Creating a generative art on ESP32 with Arduino
 
+### Creating a generative art on ESP32 with Arduino
 
 
 ![IMG_9081](https://user-images.githubusercontent.com/25335750/154197719-34f67f5e-55bf-48bf-93c0-c64f794152be.jpg)
