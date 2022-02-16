@@ -46,7 +46,9 @@ Issue I encountered during this project was trying to load the text to ESP32. Mo
 
 ###Video illustrating how the arts were installed:
 https://youtu.be/uh96kdElg3w
+
 https://youtu.be/XKwf8FrTVfo
+
 
 
 Readme of the project: https://github.com/ChangSuNam/-generative-art/blob/main/README.md
