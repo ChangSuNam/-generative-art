@@ -31,7 +31,8 @@ On my device, a generative, visual poem about “rain” was displayed.
 ### Creating the art generatively
 Visual poems are defined as poem that visualizes its contents. I intended to create a poem with its title representing the cloud, and the stanza representing the raindrops. This was achieved by setting the color of the title white, and the color of the rest of the poem blue. In addition, to visualize the raindrops, only one word was used in each line, and their locations were inconsistent, effectively representing drizzling rain falling in a chaotic manner.
 
-The poem is generative, as the words and their location are chosen by a randomizer code. On Arduino, I created a randomizer function that chooses a word from an array of onomatopoeia that describes rain. With another randomizer function, blank spaces that is to be printed before the onomatopoeia is created. These were created with random(n) function on Arduino, which randomly chooses an integer between 0 and n. 
+The poem is generative, as the words and their location are chosen by a randomizer code. On Arduino, I created a randomizer function that chooses a word from an array of onomatopoeia that describes rain. With another randomizer function, blank spaces that is to be printed before the onomatopoeia is created. These were created with random(n) function on Arduino, which randomly chooses an integer between 0 and n. These functions are called each time a line is to be printed. Therefore this code effectively creates a unique poem every time it compiles.
+Code that creates the generative art above can be found on: https://github.com/ChangSuNam/-generative-art/blob/main/Module1_poem.ino
 
 Since the theme of my poem is rain, I decorated the cardboard package with a drawing of cloud and rain falling from it. On the back of the box where the screen is invisible, I drew the raindrops with ink, but on the front where the screen is visible, I simply drew the cloud above the screen, so that the words on the screen can remind the audience of raindrops. When installing this art, I spun the machine so that over time it slowly turns around. The audience could see both side of the box this way.
 ![IMG_9078](https://user-images.githubusercontent.com/25335750/154197555-265d5688-eb31-41ae-9f4d-2f2da293ffaf.jpg)
@@ -48,6 +49,6 @@ https://user-images.githubusercontent.com/25335750/154197673-c30400e9-0b09-4865-
 
 Readme of the project: https://github.com/ChangSuNam/-generative-art/blob/main/README.md
 
-Code that creates generative art: https://github.com/ChangSuNam/-generative-art/blob/main/Module1_poem.ino
+
 
 
